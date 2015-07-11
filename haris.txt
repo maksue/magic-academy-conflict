@@ -1,2 +1,3 @@
 Ini adalah ujian conflict
 line 3
+line 2
